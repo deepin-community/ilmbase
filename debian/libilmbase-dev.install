@@ -1,0 +1,4 @@
+usr/lib/*/lib*.so
+usr/include/OpenEXR
+usr/lib/*/pkgconfig/IlmBase.pc
+usr/lib/*/cmake
