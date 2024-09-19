@@ -1,3 +1,9 @@
+ilmbase (2.5.7-2deepin0) unstable; urgency=medium
+
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:49:52 +0800
+
 ilmbase (2.5.7-2) unstable; urgency=medium
 
   [ Pino Toscano ]
